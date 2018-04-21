@@ -1,0 +1,33 @@
+{
+  "name": "print-image",
+  "version": "0.1.0",
+  "description": "Print images to terminal output",
+  "main": "index.js",
+  "bin": {
+    "print-image": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dongrenguang/print-image.git"
+  },
+  "keywords": [
+    "print",
+    "image",
+    "console",
+    "terminal"
+  ],
+  "author": "Dong, Renguang <dongrenguang@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dongrenguang/print-image/issues"
+  },
+  "homepage": "https://github.com/dongrenguang/print-image#readme",
+  "dependencies": {
+    "ansi-256-colors": "^1.1.0",
+    "commander": "^2.15.1",
+    "jimp": "^0.2.28"
+  }
+}
