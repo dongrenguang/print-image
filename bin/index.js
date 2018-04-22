@@ -59,7 +59,7 @@ function handler(imgPath, options) {
 }
 
 function printAsync(text, interval) {
-    return new Promise((resolve, reject) => {
+    return new Promise(resolve => {
         setTimeout(() => {
             console.log(text);
             resolve();
