@@ -6,7 +6,7 @@ Print image to terminal output
 > To my girlfriend :-)
 
 ## Demo
-![image](./demo/girl.png)
+<img src="./demo/girl.png" style="width:300px;" />
 
 ## Installation
 ```
