@@ -1,12 +1,12 @@
 # print-image
+> To my girlfriend :-)
 
 [![Build Status](https://travis-ci.org/dongrenguang/print-image.svg?branch=master)](https://travis-ci.org/dongrenguang/print-image)
 
 Print image to terminal output
-> To my girlfriend :-)
 
 ## Demo
-<img src="./demo/girl.png" style="width:300px;" />
+![image](./demo/girl.jpg)
 
 ## Installation
 ```
